@@ -16,11 +16,8 @@ body {
     
 }
 main{
-    background-color: rgba(73, 73, 73, 0.85);
+    background-color: rgba(8, 8, 8, 0.85);
 }
-
-
-
 .carousel {
     margin-bottom: 4rem;
 }
@@ -52,3 +49,4 @@ main{
     box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
     background-image:url('../images/pexels-pixabay-459654.jpg');
 }
+
